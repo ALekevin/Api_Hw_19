@@ -1,4 +1,4 @@
-from HomeWork.Api_Hw_19.Api_Hw_19_7_18.api.base_api import BaseApi
+from Api_Hw_19.Api_Hw_19_7_18.api.base_api import BaseApi
 
 
 class USER(BaseApi):
