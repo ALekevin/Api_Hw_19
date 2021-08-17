@@ -8,7 +8,7 @@ for i in range(5):
 sys.path.append(path)
 
 
-from HomeWork.Api_Hw_19.Api_Hw_19_7_18.api.user import USER
+from Api_Hw_19.Api_Hw_19_7_18.api.user import USER
 
 
 @allure.feature('通讯录成员接口测试')
